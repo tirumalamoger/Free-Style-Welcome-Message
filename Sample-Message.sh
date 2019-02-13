@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set +e
 echo "Hello Jenkins with Free-Style-Sample"
 echo "First Project with Free Style"
